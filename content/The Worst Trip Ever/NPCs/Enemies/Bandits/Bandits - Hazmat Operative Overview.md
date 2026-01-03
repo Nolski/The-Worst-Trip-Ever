@@ -71,96 +71,11 @@ Corporate or government HAZMAT response personnel tasked with containing an expe
 ---
 
 
-## Melee Variant – Close Support Operative
+[[Melee Variant – Close Support Operative]]
 
-**Armor Class:** 12 (resistant overcoat)  
-**Hit Points:** 11 (2d8+2)  
-**STR** 11 (+0)  **DEX** 12 (+1)  **CON** 12 (+1)  **INT** 10 (+0)  **WIS** 10 (+0)  **CHA** 10 (+0)
+[[Ranged Variant – Suppression Operative]]
 
-### Actions
-**Baton Strike (Fantasy Scimitar / Reality Collapsible Tool)**  
-Melee Weapon Attack: +3 to hit, reach 5 ft., one target.  
-Hit: 4 (1d6+1) bludgeoning or slashing damage.
-
-**Reinforced Shield Bash (If using a shield)**  
-Melee Weapon Attack: +3 to hit, reach 5 ft., one target.  
-Hit: 3 (1d4+1) bludgeoning damage, and the target must succeed on a DC 11 Strength saving throw or be pushed 5 ft.
-
-### Role in Encounter
-- Engages PCs in melee
-- Attempts to protect specialists
-- Withdraws if heavily wounded
-
----
-
-## Ranged Variant – Suppression Operative
-
-**Armor Class:** 12 (light ballistic gear)  
-**Hit Points:** 11 (2d8+2)  
-**STR** 10 (0)  **DEX** 12 (+1)  **CON** 12 (+1)  **INT** 10 (+0)  **WIS** 10 (+0)  **CHA** 10 (+0)
-
-### Actions
-**Non-Lethal Launcher (Fantasy Light Crossbow / Reality Projectile Suppressor)**  
-Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target.  
-Hit: 5 (1d8+1) piercing or stun rounds.
-
-**Suppressive Fire** *(Recharge 5–6)*  
-The operative can fire at two different targets within range, making two separate Non-Lethal Launcher attacks. On a hit, the target must succeed on a DC 11 Constitution saving throw or be **slowed** (speed halved) until the end of its next turn.
-
-### Role in Encounter
-- Fires from cover
-- Seeks high ground or line of sight
-- Withdraws under pressure
-
----
-
-## Magic Variant – Protocol Specialist
-
-**Armor Class:** 12 (gear-embedded shielding)  
-**Hit Points:** 11 (2d8+2)  
-**STR** 10 (0)  **DEX** 12 (+1)  **CON** 12 (+1)  **INT** 12 (+1)  **WIS** 10 (+0)  **CHA** 10 (+0)
-
-### Spellcasting (Fantasy Perception)
-The Protocol Specialist is a 1st-level spellcaster (spell save DC 11, +3 to hit with spell attacks).  
-It has the following spells prepared:
-
-- **Cantrips (at will):** *Mage Hand*, *Light*
-- **1st level (2 slots):** *Shield*, *Protection from Good and Evil*
-
-*(In reality, these are interpreted through tech interfaces or gear enemies misperceive as magic effects.)*
-
-### Actions
-**Pulse Disruptor** *(Ranged Tech Effect)*  
-Ranged Spell Attack: +3 to hit, range 60 ft., one target.  
-Hit: 4 (1d8) radiant or energy damage (described as “arcane discharge”).
-
-### Role in Encounter
-- Supports operatives with defensive tech
-- Creates battlefield control
-- Avoids extended close combat
-
----
-
-### Actions
-
-**Scimitar (Fantasy) / Baton or Tool (Reality)**  
-*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target  
-*Hit:* 4 (1d6+1) slashing damage
-
-**Light Crossbow (Fantasy) / Non-lethal Launcher (Reality)**  
-*Ranged Weapon Attack:* +3 to hit, range 80/320 ft.  
-*Hit:* 5 (1d8+1) piercing damage
-
----
-
-### Equipment (Fantasy Interpretation → Reality)
-
-- Scimitar → Collapsible baton or cutting tool  
-- Crossbow → Projectile launcher  
-- Leather armor → Fire-resistant suit  
-- Smoke bomb (if used) → Suppressant or gas dispersal
-
----
+[[Magic Variant – Protocol Specialist]]
 
 ## Special Traits (Narrative)
 
